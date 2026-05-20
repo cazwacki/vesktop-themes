@@ -63,8 +63,8 @@ body {
     /* text colors */
     --text-0: var(--bg-4);
     --text-1: #3c3836;                /* gruvbox fg1 */
-    --text-2: #282828;                /* gruvbox fg0 */
-    --text-3: #af3a03;                /* gruvbox orange */
+    --text-2: #504945;                /* gruvbox fg0 */
+    --text-3: #282828;                /* gruvbox orange */
     --text-4: #7c6f64;                /* gruvbox fg4 */
     --text-5: #a89984;                /* gruvbox fg3 */
 
